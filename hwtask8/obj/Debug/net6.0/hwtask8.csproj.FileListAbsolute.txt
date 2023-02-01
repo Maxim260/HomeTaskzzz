@@ -1,0 +1,15 @@
+D:\Test\HomeTaskzzz\hwtask8\bin\Debug\net6.0\hwtask8.exe
+D:\Test\HomeTaskzzz\hwtask8\bin\Debug\net6.0\hwtask8.deps.json
+D:\Test\HomeTaskzzz\hwtask8\bin\Debug\net6.0\hwtask8.runtimeconfig.json
+D:\Test\HomeTaskzzz\hwtask8\bin\Debug\net6.0\hwtask8.dll
+D:\Test\HomeTaskzzz\hwtask8\bin\Debug\net6.0\hwtask8.pdb
+D:\Test\HomeTaskzzz\hwtask8\obj\Debug\net6.0\hwtask8.csproj.AssemblyReference.cache
+D:\Test\HomeTaskzzz\hwtask8\obj\Debug\net6.0\hwtask8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\HomeTaskzzz\hwtask8\obj\Debug\net6.0\hwtask8.AssemblyInfoInputs.cache
+D:\Test\HomeTaskzzz\hwtask8\obj\Debug\net6.0\hwtask8.AssemblyInfo.cs
+D:\Test\HomeTaskzzz\hwtask8\obj\Debug\net6.0\hwtask8.csproj.CoreCompileInputs.cache
+D:\Test\HomeTaskzzz\hwtask8\obj\Debug\net6.0\hwtask8.dll
+D:\Test\HomeTaskzzz\hwtask8\obj\Debug\net6.0\refint\hwtask8.dll
+D:\Test\HomeTaskzzz\hwtask8\obj\Debug\net6.0\hwtask8.pdb
+D:\Test\HomeTaskzzz\hwtask8\obj\Debug\net6.0\hwtask8.genruntimeconfig.cache
+D:\Test\HomeTaskzzz\hwtask8\obj\Debug\net6.0\ref\hwtask8.dll

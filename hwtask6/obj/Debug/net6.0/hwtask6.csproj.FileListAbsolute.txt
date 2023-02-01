@@ -1,0 +1,15 @@
+D:\Test\HomeTaskzzz\hwtask6\obj\Debug\net6.0\hwtask6.csproj.AssemblyReference.cache
+D:\Test\HomeTaskzzz\hwtask6\obj\Debug\net6.0\hwtask6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\HomeTaskzzz\hwtask6\obj\Debug\net6.0\hwtask6.AssemblyInfoInputs.cache
+D:\Test\HomeTaskzzz\hwtask6\obj\Debug\net6.0\hwtask6.AssemblyInfo.cs
+D:\Test\HomeTaskzzz\hwtask6\obj\Debug\net6.0\hwtask6.csproj.CoreCompileInputs.cache
+D:\Test\HomeTaskzzz\hwtask6\bin\Debug\net6.0\hwtask6.exe
+D:\Test\HomeTaskzzz\hwtask6\bin\Debug\net6.0\hwtask6.deps.json
+D:\Test\HomeTaskzzz\hwtask6\bin\Debug\net6.0\hwtask6.runtimeconfig.json
+D:\Test\HomeTaskzzz\hwtask6\bin\Debug\net6.0\hwtask6.dll
+D:\Test\HomeTaskzzz\hwtask6\bin\Debug\net6.0\hwtask6.pdb
+D:\Test\HomeTaskzzz\hwtask6\obj\Debug\net6.0\hwtask6.dll
+D:\Test\HomeTaskzzz\hwtask6\obj\Debug\net6.0\refint\hwtask6.dll
+D:\Test\HomeTaskzzz\hwtask6\obj\Debug\net6.0\hwtask6.pdb
+D:\Test\HomeTaskzzz\hwtask6\obj\Debug\net6.0\hwtask6.genruntimeconfig.cache
+D:\Test\HomeTaskzzz\hwtask6\obj\Debug\net6.0\ref\hwtask6.dll

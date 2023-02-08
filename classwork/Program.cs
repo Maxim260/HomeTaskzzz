@@ -60,3 +60,77 @@
 // Console.WriteLine("yes");
 // else
 // Console.WriteLine("no");
+
+/*                       !!!!!СЕМИНАР 4!!!! */
+
+//string(char)
+
+// string? stroka = Console.ReadLine();
+// Console.WriteLine(Convert.ToInt32(stroka[2].ToString())*10);//функция ту стринг преобразует строку
+
+// Console.Clear();
+// Console.Write("enter massiv: ");
+// int n = Convert.ToInt32(Console.ReadLine());
+// int[] array = new int[n];
+// for(int i = 0; i < array.Length; i++)
+//     array[i] = new Random().Next(-10,11);
+
+// Console.WriteLine($"Rezult: [{string.Join(",", array)}]");// джоин объединяет элементы массива
+
+//                                              Function(void)
+// void f(ref int n)
+// {
+//     n = n + 5;
+// }
+
+// int n = 10;
+// f(ref n);
+// Console.WriteLine(n);
+/* Программа принимает два числа и выводит наибольшее */
+// int f(int a, int b)
+// {
+//     if(a > b)
+//         return a;
+//     return b;
+// }
+
+// int a = 10, b = 7;
+// int result = f(a, b);
+// Console.WriteLine(result);
+
+/* программа принимает число и выдает сумму чисел от 1 до A */
+
+// Console.Clear();
+// Console.Write(" enter: ");
+// double n = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine($" Rezult: {(1 + n) / 2 * n}");
+
+/*                            !!!Программа принимает число и выдает количество цифр в числе!!!! */
+// Console.Clear();
+// Console.Write(" enter: ");
+// int n = Convert.ToInt32(Console.ReadLine()),count = 0;
+// while( n > 0)
+// {
+//     n = n / 10;
+//     count++;// count = count +1
+// }
+// Console.WriteLine(count);
+
+/*                          Задача №28. Программа принимает число и выдает произведение чисел от 1 до Н.*/
+
+// Console.Clear();
+// Console.Write(" enter: ");
+// int n = Convert.ToInt32(Console.ReadLine()), count = 1;
+// for (int i = 2; i <= n; i++)
+//     count = count * i;
+//     Console.WriteLine(count);
+
+/*    Программа выводит массив из 8 элементов, заполненный нулями и единицами в случайном порядке. */
+
+// Console.Clear();
+
+// int[] array = new int[8];
+// for(int i = 0; i < array.Length; i++)
+//     array[i] = new Random().Next(0,2);
+
+// Console.WriteLine($"Rezult: [{string.Join(",", array)}]");

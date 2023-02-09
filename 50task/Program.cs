@@ -25,8 +25,9 @@ Console.Write("ENTER size massiv: ");
 int[] size = Console.ReadLine().Split().Select(x => int.Parse(x)).ToArray();
 double[,] matrix = new double[size[0], size[1]];
 InputMatrix(matrix);
+Console.WriteLine("Введите позицию элемента: ");
 int[] coord = Console.ReadLine().Split().Select(x => int.Parse(x)).ToArray();
-Console.Write("Введите позицию элемента: ");
+
 double result = SearchMatrix(matrix, coord[0] - 1, coord[1] - 1);
 if(result !=0)
     Console.WriteLine(result);
